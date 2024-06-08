@@ -6,6 +6,3 @@ I am spectrumgamer75, a novice programmer who loves everything open-source and a
 - 🔭 I’m currently working on a system information utility called [Infonata](https://github.com/spectrumgamer75/Infonata)
 - 🌱 I’m currently learning Zenity for getting GUI in my future bash scripts
 - 💬 For contacting me, shoot a message [here](https://github.com/spectrumgamer75/spectrumgamer75/issues)
-
-
-![spectrumgamer's github stats](https://github-readme-stats.vercel.app/api?username=spectrumgamer75&theme=tokyonight&hide=prs&show_icons=true)
